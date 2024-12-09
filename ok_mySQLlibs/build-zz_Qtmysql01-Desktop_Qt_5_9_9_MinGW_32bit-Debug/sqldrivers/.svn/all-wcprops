@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/project_vibration/!svn/ver/86/003guangzhou_dianli/build-vibration-Desktop_Qt_5_9_3_MinGW_32bit-Debug/sqldrivers
+END
+qsqlited.dll
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project_vibration/!svn/ver/86/003guangzhou_dianli/build-vibration-Desktop_Qt_5_9_3_MinGW_32bit-Debug/sqldrivers/qsqlited.dll
+END
+qsqlmysqld.dll
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project_vibration/!svn/ver/86/003guangzhou_dianli/build-vibration-Desktop_Qt_5_9_3_MinGW_32bit-Debug/sqldrivers/qsqlmysqld.dll
+END
+qsqlodbcd.dll
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project_vibration/!svn/ver/86/003guangzhou_dianli/build-vibration-Desktop_Qt_5_9_3_MinGW_32bit-Debug/sqldrivers/qsqlodbcd.dll
+END
+qsqlpsqld.dll
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project_vibration/!svn/ver/86/003guangzhou_dianli/build-vibration-Desktop_Qt_5_9_3_MinGW_32bit-Debug/sqldrivers/qsqlpsqld.dll
+END
